@@ -1,0 +1,12 @@
+LITFREIGHT QUICK CHECKLIST
+[ ] Create Supabase project
+[ ] Run supabase/schema.sql
+[ ] Add Project URL and anon key to config.js
+[ ] Create first account and promote it to admin (README)
+[ ] Upload every bundle file to GitHub repository root
+[ ] Connect repository to Cloudflare Pages (None / blank build / root output)
+[ ] Add litfreight.co as a Cloudflare Pages custom domain
+[ ] Set Supabase Auth Site URL and Redirect URLs
+[ ] Create a sample shipment + shipment event
+[ ] Test guest request, login, freight quote and public tracking
+[ ] Only then announce the website publicly
